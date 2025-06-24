@@ -1,0 +1,249 @@
+Certainly! Here is an updated list with ISBNs for each book:
+
+### Fictional Books:
+
+1. **To Kill a Mockingbird**
+   - Title: To Kill a Mockingbird
+   - ISBN: 9780061120084
+   - Category: Fiction
+   - Author: Harper Lee
+   - Publisher: J.B. Lippincott & Co.
+   - Copyright: 1960
+
+2. **1984**
+   - Title: 1984
+   - ISBN: 9780451524935
+   - Category: Fiction
+   - Author: George Orwell
+   - Publisher: Secker & Warburg
+   - Copyright: 1949
+
+3. **Pride and Prejudice**
+   - Title: Pride and Prejudice
+   - ISBN: 9780141439518
+   - Category: Fiction
+   - Author: Jane Austen
+   - Publisher: T. Egerton, Whitehall
+   - Copyright: 1813
+
+4. **The Great Gatsby**
+   - Title: The Great Gatsby
+   - ISBN: 9780743273565
+   - Category: Fiction
+   - Author: F. Scott Fitzgerald
+   - Publisher: Charles Scribner's Sons
+   - Copyright: 1925
+
+5. **One Hundred Years of Solitude**
+   - Title: One Hundred Years of Solitude
+   - ISBN: 9780061120091
+   - Category: Fiction
+   - Author: Gabriel Garcia Marquez
+   - Publisher: Editorial Sudamericana
+   - Copyright: 1967
+
+6. **The Catcher in the Rye**
+   - Title: The Catcher in the Rye
+   - ISBN: 9780241950425
+   - Category: Fiction
+   - Author: J.D. Salinger
+   - Publisher: Little, Brown and Company
+   - Copyright: 1951
+
+7. **The Lord of the Rings**
+   - Title: The Lord of the Rings
+   - ISBN: 9780544003415
+   - Category: Fiction
+   - Author: J.R.R. Tolkien
+   - Publisher: Allen & Unwin
+   - Copyright: 1954-1955
+
+8. **Jane Eyre**
+   - Title: Jane Eyre
+   - ISBN: 9780141441146
+   - Category: Fiction
+   - Author: Charlotte Brontë
+   - Publisher: Smith, Elder & Co.
+   - Copyright: 1847
+
+9. **Brave New World**
+   - Title: Brave New World
+   - ISBN: 9780060850524
+   - Category: Fiction
+   - Author: Aldous Huxley
+   - Publisher: Chatto & Windus
+   - Copyright: 1932
+
+10. **The Hobbit**
+    - Title: The Hobbit
+    - ISBN: 9780261102217
+    - Category: Fiction
+    - Author: J.R.R. Tolkien
+    - Publisher: George Allen & Unwin
+    - Copyright: 1937
+
+### Non-Fictional Books:
+
+1. **Sapiens: A Brief History of Humankind**
+   - Title: Sapiens: A Brief History of Humankind
+   - ISBN: 9780062316097
+   - Category: Non-Fiction
+   - Author: Yuval Noah Harari
+   - Publisher: Harper
+   - Copyright: 2011
+
+2. **The Diary of a Young Girl**
+   - Title: The Diary of a Young Girl
+   - ISBN: 9780553296983
+   - Category: Non-Fiction
+   - Author: Anne Frank
+   - Publisher: Contact Publishing
+   - Copyright: 1947
+
+3. **A Brief History of Time**
+   - Title: A Brief History of Time
+   - ISBN: 9780553380163
+   - Category: Non-Fiction
+   - Author: Stephen Hawking
+   - Publisher: Bantam Dell Publishing Group
+   - Copyright: 1988
+
+4. **The Immortal Life of Henrietta Lacks**
+   - Title: The Immortal Life of Henrietta Lacks
+   - ISBN: 9781400052189
+   - Category: Non-Fiction
+   - Author: Rebecca Skloot
+   - Publisher: Crown Publishing Group
+   - Copyright: 2010
+
+5. **In Cold Blood**
+   - Title: In Cold Blood
+   - ISBN: 9780679745587
+   - Category: Non-Fiction
+   - Author: Truman Capote
+   - Publisher: Random House
+   - Copyright: 1966
+
+6. **The Power of Habit**
+   - Title: The Power of Habit
+   - ISBN: 9780812981605
+   - Category: Non-Fiction
+   - Author: Charles Duhigg
+   - Publisher: Random House
+   - Copyright: 2012
+
+7. **Guns, Germs, and Steel**
+   - Title: Guns, Germs, and Steel
+   - ISBN: 9780393317558
+   - Category: Non-Fiction
+   - Author: Jared Diamond
+   - Publisher: W. W. Norton & Company
+   - Copyright: 1997
+
+8. **Quiet: The Power of Introverts in a World That Can't Stop Talking**
+   - Title: Quiet: The Power of Introverts in a World That Can't Stop Talking
+   - ISBN: 9780307352156
+   - Category: Non-Fiction
+   - Author: Susan Cain
+   - Publisher: Crown Publishing Group
+   - Copyright: 2012
+
+9. **The Wright Brothers**
+   - Title: The Wright Brothers
+   - ISBN: 9781476728759
+   - Category: Non-Fiction
+   - Author: David McCullough
+   - Publisher: Simon & Schuster
+   - Copyright: 2015
+
+10. **Educated**
+    - Title: Educated
+    - ISBN: 9780399590504
+    - Category: Non-Fiction
+    - Author: Tara Westover
+    - Publisher: Random House
+    - Copyright: 2018
+
+### Academic Books:
+
+1. **Introduction to Algorithms**
+   - Title: Introduction to Algorithms
+   - ISBN: 9780262033848
+   - Category: Academic
+   - Author: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
+   - Publisher: The MIT Press
+   - Copyright: 1990
+
+2. **The Elements of Style**
+   - Title: The Elements of Style
+   - ISBN: 9780205309023
+   - Category: Academic
+   - Author: William Strunk Jr., E.B. White
+   - Publisher: Harcourt, Brace & World
+   - Copyright: 1918
+
+3. **Principles of Economics**
+   - Title: Principles of Economics
+   - ISBN: 9781305585126
+   - Category: Academic
+   - Author: N. Gregory Mankiw
+   - Publisher: Cengage Learning
+   - Copyright: 1997
+
+4. **Chemistry: The Central Science**
+   - Title: Chemistry: The Central Science
+   -
+
+ ISBN: 9780134296016
+   - Category: Academic
+   - Author: Theodore L. Brown, H. Eugene LeMay Jr., Bruce E. Bursten, Catherine J. Murphy, Patrick M. Woodward, Matthew W. Stoltzfus
+   - Publisher: Pearson
+   - Copyright: 1977
+
+5. **A History of Western Philosophy**
+   - Title: A History of Western Philosophy
+   - ISBN: 9780415325059
+   - Category: Academic
+   - Author: Bertrand Russell
+   - Publisher: Routledge
+   - Copyright: 1945
+
+6. **Principles of Neural Science**
+   - Title: Principles of Neural Science
+   - ISBN: 9781259863221
+   - Category: Academic
+   - Author: Eric R. Kandel, James H. Schwartz, Thomas M. Jessell, Steven A. Siegelbaum, A. J. Hudspeth
+   - Publisher: McGraw-Hill
+   - Copyright: 2000
+
+7. **The Structure of Scientific Revolutions**
+   - Title: The Structure of Scientific Revolutions
+   - ISBN: 9780226458120
+   - Category: Academic
+   - Author: Thomas S. Kuhn
+   - Publisher: University of Chicago Press
+   - Copyright: 1962
+
+8. **International Relations**
+   - Title: International Relations
+   - ISBN: 9780134409856
+   - Category: Academic
+   - Author: Joshua S. Goldstein, Jon C. Pevehouse
+   - Publisher: Pearson
+   - Copyright: 1999
+
+9. **Linear Algebra and Its Applications**
+   - Title: Linear Algebra and Its Applications
+   - ISBN: 9780321982384
+   - Category: Academic
+   - Author: David C. Lay, Steven R. Lay, Judi J. McDonald
+   - Publisher: Pearson
+   - Copyright: 1993
+
+10. **The Art of Computer Programming**
+    - Title: The Art of Computer Programming
+    - ISBN: 9780201485417
+    - Category: Academic
+    - Author: Donald E. Knuth
+    - Publisher: Addison-Wesley
+    - Copyright: 1968
