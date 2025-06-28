@@ -130,7 +130,11 @@ The SQL file `csharp_lms_db.sql` is included in this repository. It contains the
 
 ## 📸 Screenshots
 
-> _Add screenshots of the login page, main dashboard, and book management panels here to showcase the UI._
+
+![1](https://github.com/user-attachments/assets/7d583820-20fb-4764-8508-7eb110d3cdf9)
+![2](https://github.com/user-attachments/assets/342af949-54f5-4e66-84b1-2532593887d5)
+![3](https://github.com/user-attachments/assets/c2aa59a9-0b0a-4615-86b3-0c7f9dbf14ca)
+
 
 ## 🤝 Contributing
 
